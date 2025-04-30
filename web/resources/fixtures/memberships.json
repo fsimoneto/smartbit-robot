@@ -1,0 +1,78 @@
+{
+    "create": {
+        "account": {
+            "name": "Paulo Cintura",
+            "email": "paulo@cintura.com.br",
+            "cpf": "00623410060"
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Paulo Cintura",
+            "month": "12",
+            "year": "2032",
+            "cvv": "321"
+        }
+    },
+    "duplicate": {
+        "account": {
+            "name": "Léo Stronda",
+            "email": "leo@stronda.com.br",
+            "cpf": "38384487073"
+        },
+        "plan": {
+            "name": "Plano Smart",
+            "id": 1,
+            "price": 99.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Léo Stronda",
+            "month": "12",
+            "year": "2032",
+            "cvv": "321"
+        }
+    },
+    "search": {
+        "account": {
+            "name": "Ramon Dino",
+            "email": "ramon@dino.com.br",
+            "cpf": "03170841009"
+        },
+        "plan": {
+            "name": "Plano Smart",
+            "id": 1,
+            "price": 99.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Ramon Dino",
+            "month": "12",
+            "year": "2032",
+            "cvv": "321"
+        }
+    },
+    "remove": {
+        "account": {
+            "name": "Felipe Dino",
+            "email": "felipe@dino.com.br",
+            "cpf": "67777472062"
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Felipe Dino",
+            "month": "12",
+            "year": "2032",
+            "cvv": "321"
+        }
+    }
+}

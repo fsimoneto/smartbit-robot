@@ -1,0 +1,42 @@
+{
+    "login": {
+        "account": {
+            "name": "Simoneto Felipe",
+            "email": "simoneto@felipe.com.br",
+            "cpf": "88015681006"
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Simoneto Felipe",
+            "month": "12",
+            "year": "2032",
+            "cvv": "321"
+        }
+    },
+    "update": {
+        "account": {
+            "name": "Dominic Toreto",
+            "email": "toreto@hotmail.com",
+            "cpf": "19119562055",
+            "weight": 70,
+            "height": 180
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Dominic Toreto",
+            "month": "12",
+            "year": "2032",
+            "cvv": "321"
+        }
+    }
+}
